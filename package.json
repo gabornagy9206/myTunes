@@ -1,0 +1,23 @@
+{
+  "name": "mytunes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://gabornagy9206.github.io/myTunes",
+  "scripts": {
+    "deploy": "gh-pages -d DIST"
+  },
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabornagy9206/myTunes.git"
+  },
+  "author": "Gábor Nagy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabornagy9206/myTunes/issues"
+  }
+}
